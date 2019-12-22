@@ -1,0 +1,17 @@
+html,
+body,
+  #viewDiv {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+
+  #elevationDiv {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+	padding: 12px;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+}
